@@ -1,2 +1,2 @@
 # nugget
-The Nugget memory allocator
+The Nugget Memory Allocator
